@@ -13,6 +13,9 @@ Prerequisites :
 
 You must first create the Little Lemon database in MySQL. You must also have the Customers, Bookings and Courses tables created and populated with relevant data as shown below.
 
+SCHEMA DESIGN
+![image](https://github.com/Kirangn24/MySql_Project/blob/main/pic.jpg)
+
 
 1. The code to create the database is as follows :
 
