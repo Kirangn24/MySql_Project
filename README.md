@@ -104,7 +104,7 @@ VALUES
 
 The Bookings table is shown in the following screenshot:
 
-![image](https://github.com/himanshu1295/MySQL_Database_Project/assets/106751126/0ad18348-f8fd-45a9-8dd3-4dc15953e681)
+![image](https://github.com/Kirangn24/MySql_Project/blob/main/pro2.jpg)
 
 
 7. The code to create the restaurant Courses table is as follows :
@@ -131,7 +131,7 @@ INSERT INTO Courses (CourseName, Cost) VALUES
 
 The Courses table is shown in the following screenshot :
 
-![image](https://github.com/himanshu1295/MySQL_Database_Project/assets/106751126/98744776-faf6-42d1-aa29-c4bfb96720d4)
+![image](https://github.com/Kirangn24/MySql_Project/blob/main/pro3.jpg)
 
 
 This activity has two main objectives :
@@ -149,7 +149,7 @@ Create SQL statement to print all records from Bookings table for the following 
 
 The expected output result should be the same as shown in the following screenshot :
 
-![image](https://github.com/himanshu1295/MySQL_Database_Project/assets/106751126/32930a69-fdca-4636-8991-5c4ac9fd9e21)
+![image](https://github.com/Kirangn24/MySql_Project/blob/main/pro4.jpg)
 
 
 Task 2: Create a JOIN Query.
@@ -158,7 +158,7 @@ Create a JOIN SQL statement on the Customers and Bookings tables. The statement 
 
 The expected output result should be the same as that shown in the following screenshot :
 
-![image](https://github.com/himanshu1295/MySQL_Database_Project/assets/106751126/ad498afb-7fa7-40a2-9c45-47ff9cbbb2d2)
+![image](https://github.com/Kirangn24/MySql_Project/blob/main/pro5.jpg)
 
 
 Task 3: Create a GROUP BY Query.
@@ -167,14 +167,14 @@ Create a SQL statement to print the bookings dates from Bookings table. The stat
 
 The expected output result should be the same as that shown in the following screenshot :
 
-![image](https://github.com/himanshu1295/MySQL_Database_Project/assets/106751126/b5f6ddd4-f935-4fa8-a506-e4104ef65bf0)
+![image](https://github.com/Kirangn24/MySql_Project/blob/main/pro6.jpg)
 
 
 Task 4: Create a REPLACE Statement.
 
 Create a SQL REPLACE statement that updates the cost of the Kabsa course from $17.00 to $20.00. The expected output result should be the same as that shown in the following screenshot :
 
-![image](https://github.com/himanshu1295/MySQL_Database_Project/assets/106751126/74fd9c82-c89e-4757-88f8-2d793a694d04)
+![image](https://github.com/Kirangn24/MySql_Project/blob/main/pro7.jpg)
 
 
 Task 5: Create Constraints.
@@ -191,7 +191,7 @@ Create a new table called "DeliveryAddress" in the Little Lemon database with th
 
 The expected table structure should be the same as that shown in the following screenshot :
 
-![image](https://github.com/himanshu1295/MySQL_Database_Project/assets/106751126/fe234c4b-1e87-4bb9-9e3b-a1e3dd64e8a6)
+![image](https://github.com/Kirangn24/MySql_Project/blob/main/pro8.jpg)
 
 
 Task 6: Alter Table Structure.
@@ -202,7 +202,7 @@ Create a SQL statement that adds a new column called 'Ingredients' to the Course
 
 Once the column has been added, the table's new structure should be the same as shown in the following screenshot :
 
-![image](https://github.com/himanshu1295/MySQL_Database_Project/assets/106751126/ab37f42e-ca0f-4378-be6c-f5ecb9f5742e)
+![image](https://github.com/Kirangn24/MySql_Project/blob/main/pro9.jpg)
 
 
 Task 7: Create a Subquery.
@@ -211,7 +211,7 @@ Create a SQL statement with a subquery that prints the full names of all custome
 
 The expected output result of your query should be similar to the output in the following screenshot :
 
-![image](https://github.com/himanshu1295/MySQL_Database_Project/assets/106751126/03085e66-2c5b-4b92-aeff-a09dd1675311)
+![image](https://github.com/Kirangn24/MySql_Project/blob/main/pro10.jpg)
 
 
 Task 8: Create a Virtual Table.
@@ -220,7 +220,7 @@ Create the "BookingsView" virtual table to print all bookings IDs, bookings date
 
 Select all data from the BookingsView virtual table. The expected output result should be the same as shown in the following screenshot:
 
-![image](https://github.com/himanshu1295/MySQL_Database_Project/assets/106751126/027a98eb-3737-4961-81dd-86174a5ca5af)
+![image](https://github.com/Kirangn24/MySql_Project/blob/main/pro11.jpg)
 
 
 Task 9: Create a Stored Procedure.
@@ -229,7 +229,7 @@ Create a stored procedure called 'GetBookingsData'. The procedure must contain o
 
 After executing the query, call the "GetBookingsData" with '2021-11-13' as the input date passed to the stored procedure to show all bookings made on that date. The expected output of the CALL statement should be the same as the following screenshot :
 
-![image](https://github.com/himanshu1295/MySQL_Database_Project/assets/106751126/23d91c03-b081-44dd-9221-31ea3a3346bb)
+![image](https://github.com/Kirangn24/MySql_Project/blob/main/pro12.jpg)
 
 
 Task 10: Use the String Function.
@@ -244,4 +244,4 @@ Create a SQL SELECT query using appropriate MySQL string function to list "Booki
 
 The expected output result should be similar to the following screenshot (notice the table title "Booking Details") :
 
-![image](https://github.com/himanshu1295/MySQL_Database_Project/assets/106751126/59d37770-4a52-46ec-aee7-c14cb15bca01)
+![image](https://github.com/Kirangn24/MySql_Project/blob/main/pro13.jpg)
