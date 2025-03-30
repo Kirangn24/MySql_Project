@@ -61,7 +61,7 @@ INSERT INTO Customers(CustomerID, FullName, PhoneNumber) VALUES
 
 The Customers table content is shown in the following screenshot :
 
-![image](https://github.com/himanshu1295/MySQL_Database_Project/assets/106751126/20422fe3-a46b-4fbf-a688-6254e18da266)
+![image](https://github.com/Kirangn24/MySql_Project/blob/main/pro1.jpg)
 
 
 5. The code to create the Bookings table is as follows :
