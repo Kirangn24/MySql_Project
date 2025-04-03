@@ -6,7 +6,7 @@ CREATE DATABASE IF NOT EXISTS Little_Lemon;
 
 -- The code to see if the database is created:
 SHOW DATABASES;
-
+   
 
 -- The code to use the database is as follows:
 USE Little_Lemon;
